@@ -1,4 +1,4 @@
-package com.Mohak;
+//package com.Mohak;
 import java.util.Scanner;
 public class SGPA_Calculator2 {
 
